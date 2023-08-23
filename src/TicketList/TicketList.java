@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class TicketList {
     
-    private ArrayList<TicketModel> lista;
+ private ArrayList<TicketModel> lista;
     
     
  public void Agregar(TicketModel ticket){
